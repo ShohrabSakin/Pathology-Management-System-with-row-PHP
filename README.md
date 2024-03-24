@@ -13,7 +13,7 @@ It's a complete Pathology Management System build in row PHP.
 | User Interface Design   | HTML 5, CSS 3, Bootstrap 5, jQuery 3, JavaScript [ ES-6 ]   |
 | XAMPP Version           | XAMPP 8.2.4                                                 |
 | Web Browser             | Google Chrome, Mozilla Firefox                              |
-| Front end               | jQuery 3, JavaScript [ ES-6 ]                               |
+| Front end               | jQuery                              |
 | Back end                | PHP 7.x                                                     |
 
 
@@ -26,15 +26,15 @@ It's a complete Pathology Management System build in row PHP.
 
     2. Extract the files and copy those  files in your preferable Xampp folder [C/D/E].
 
-    3. Make a folder name "ANGULAR" in your preferable Xampp folder [C/D/E].
+    3. Make a folder name "JQUERY" in your preferable Xampp folder [C/D/E].
     
-    4. In ANGULAR folder keep the "SAKIN" file. Which was used for Front end.
+    4. In JQUERY folder keep the "Pathology" file. Which was used for Front end.
 
     5. Open phpMyAdmin (http://localhost/phpmyadmin/)
 
-    7. Create a database with name "angular" 
+    7. Create a database with name "pathology" 
 
-    8. Import "angular.sql" file (given inside the zip package in "Database" folder).
+    8. Import "pathology.sql" file (given inside the zip package in "Database" folder).
 
     9. Run ANGULAR :
 
@@ -63,7 +63,7 @@ It's a complete Pathology Management System build in row PHP.
 
 ## Tech Stack
 
-**Client:** jQuery 3, JavaScript [ ES-6 ]
+**Client:** jQuery 
 
 **Server:** PHP row services.
 
