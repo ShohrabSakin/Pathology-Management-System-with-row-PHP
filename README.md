@@ -36,13 +36,13 @@ It's a complete Pathology Management System build in row PHP.
 
     8. Import "pathology.sql" file (given inside the zip package in "Database" folder).
 
-    9. Run ANGULAR :
+    9. Run jQuery :
 
-         - Open C:\ xampp \ htdocs \ ANGULAR \ SAKIN folder. [ Root directory ]
+    - Open C:\ xampp \ htdocs \ JQUERY \ MY Project \ Pathology \ index.php 
 
-         - Open git bash here or your Terminal > run  "ng serve" [ ANGULAR CLI ]
+    - Open "index.php" file in your code editor [ VS Code ] and copy path
 
-         - Open a browser run localhost:4200 [ Mandatory ]
+    - Open a browser run localhost [ http://localhost/JQUERY/Pathology/index.php ]
 
      10. Admin Credential
 
