@@ -52,9 +52,9 @@ It's a complete Pathology Management System build in row PHP.
 ## Features
 
 - JWT Authentication.
-- Doctors appointment.
 - Doctors Entry.
 - Doctors commission per test.
+- Doctors commission basis report.
 - Pathology tests entries.
 - Pathology tests group entries.
 - Pathology Sales bill with print.
