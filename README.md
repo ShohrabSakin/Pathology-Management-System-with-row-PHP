@@ -20,17 +20,7 @@ It's a complete Pathology Management System build in row PHP.
 
 ## Some Project Screenshots
 
-![Dashboard](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/7b7e6792-1f5c-4dbb-9bdf-517b47afa7d0)
 
-![JWT Authentication](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/5325c3a1-8194-4c99-a6c4-15c07e321c6a)
-
-![Doctors Commisssion](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/b548bf25-2708-4ed8-a4f7-32f718900f5a)
-
-![Sales Master Details](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/baeff703-53bc-4212-b035-047bec9d376b)
-
-![Groups Entry](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/7b4db256-0962-40eb-b037-53292aab7ac7)
-
-![Voucherwise Report](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/08d85cf0-0735-48ca-bbb4-c13359148f0a)
 
 
 
