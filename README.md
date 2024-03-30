@@ -22,6 +22,8 @@ It's a complete Pathology Management System build in row PHP.
 
 ![JWT Authentication](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/8bc56cea-ce48-43dc-b865-8409452c8038)
 
+### JWT Authentication
+
 ![Dashboard](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/6078dfc5-940e-4a3f-b805-ff46fcf0cb7e)
 
 ![Doctors](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/1ec88f8f-65d7-4ca9-a121-83c5df1b1f35)
