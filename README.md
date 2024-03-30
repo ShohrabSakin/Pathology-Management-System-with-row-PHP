@@ -26,19 +26,35 @@ It's a complete Pathology Management System build in row PHP.
 
 ![Dashboard](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/6078dfc5-940e-4a3f-b805-ff46fcf0cb7e)
 
+### The Dashboard looks like 💁‍♂️
+
 ![Doctors](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/1ec88f8f-65d7-4ca9-a121-83c5df1b1f35)
+
+### Doctors Entry 👨‍⚕️ 🩺 👩‍⚕️
 
 ![Doctors Commisssion](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/9315694f-4fdd-4a2e-89ba-27e76a9e11a1)
 
+### Doctors Commission per Tests 
+
 ![Commmission Report](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/cf6fc8d5-aacd-44a8-9289-06d73489a327)
+
+### Doctors Commission Report
 
 ![Tests Entry](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/5db8f81b-9dc9-4371-9065-587f1daf91b6)
 
+### Pathology Tests Entries
+
 ![Groups Entry](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/ab3e7c7f-3f3d-4cc4-bff3-0416208b644b)
+
+### Pathology Tests Groups Entries
 
 ![Sales Master Details](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/4147a319-d01d-430a-a0c0-3f27ad85832b)
 
+### Pathology Tests Sales Details Report
+
 ![Voucherwise Report](https://github.com/ShohrabSakin/Pathology-Management-System-with-row-PHP/assets/162773557/5fc01e01-9fe1-4b5f-9a1b-1e2a7dd21456)
+
+### Pathology Tests Sales Voucherwise Report
 
 
 
