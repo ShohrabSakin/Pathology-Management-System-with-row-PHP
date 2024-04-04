@@ -13,7 +13,7 @@ It's a complete Pathology Management System build in row PHP.
 | User Interface Design   | HTML 5, CSS 3, Bootstrap 5, jQuery 3, JavaScript [ ES-6 ]   |
 | XAMPP Version           | XAMPP 8.2.4                                                 |
 | Web Browser             | Google Chrome, Mozilla Firefox                              |
-| Front end               | jQuery                              |
+| Front end               | jQuery                                                      |
 | Back end                | PHP 7.x                                                     |
 
 
